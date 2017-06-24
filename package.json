@@ -13,16 +13,15 @@
   "author": "Dan Tao <daniel.tao@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "~ 0.10.1",
-    "nearest-color": "0.3.1",
+    "jsdom": "~ 9.12.0",
+    "nearest-color": "0.4.0",
     "writer.js": "^0.1.0"
   },
   "devDependencies": {
-    "coffee-script": "~ 1.7.1",
-    "console-highlight": ">= 0.1.0",
-    "highlight.js": "~ 8.0.0",
-    "juxtapose": "~ 0.1.0",
-    "mocha": "~ 1.17.1",
-    "should": "~ 3.1.3"
+    "coffee-script": "~1.12.6",
+    "highlight.js": "~9.12.0",
+    "juxtapose": "~1.0.69",
+    "mocha": "~3.4.2",
+    "should": "~11.2.1"
   }
 }
